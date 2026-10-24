@@ -14,12 +14,12 @@ print(ism_sharif)
 
 
 ism = (input('Kim u ?'))
-familiya = 'Rizayeva'
+familiya = "Ro'ziqulov"
 print(ism)
-if ism == "Shahzoda?" or ism == "Shahzoda":
-    print(f'yes {ism} is her name.')
+if ism == "Shahzod?" or ism == "Shahzod":
+    print(f'yes{familiya} {ism} is his name.')
 else:
-    print(f'no {ism} is not her name.')
+    print(f'no {failiya} {ism} is not his name.')
 
 
 name = 'Abdurazzoq'
